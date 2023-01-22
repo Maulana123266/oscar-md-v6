@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285850539404'] //ur owner number
-global.ownername = "Jarot Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
-global.ytname = "YT: Jarot offc" //ur yt chanel name
-global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
-global.location = "Jatim" //ur location
+global.vcardowner = ['6285640570185'] //ur owner number
+global.ownername = "Alan" //ur owner name
+global.developer = "Alan" //nama lu
+global.ytname = "YT: -" //ur yt chanel name
+global.socialm = "https://instagram.com/ini.alan06" //ur github or insta name
+global.sgc = "https://chat.whatsapp.com/HWkPjaeosr8AJ1eVwvoMeV"
+global.location = "Kebumen , Jawa Tengah" //ur location
 
 //bot bomdy 
-global.owner = ['6285850539404'] //ur number
-global.ownernomer = "6285850539404" //ur number
-global.ownertag = '6285850539404' //ur tag number
-global.premium = ['6285850539404'] //ur premium number
-global.botname = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥' //ur bot name
-global.ownername = "𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤"
-global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "6285850539404"
-global.pulsa = "6285850539404"
-global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
-global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
-global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
+global.owner = ['6285640570185'] //ur number
+global.ownernomer = "6285640570185" //ur number
+global.ownertag = '6285640570185' //ur tag number
+global.premium = ['6285640570185'] //ur premium number
+global.botname = 'AkariBot-MD' //ur bot name
+global.ownername = "Alan"
+global.linkz = "linktr.ee/alan_06" //your theme url which will be displayed on whatsapp
+global.dana = "6285640570185"
+global.pulsa = "6285640570185"
+global.websitex = "linktr.ee/alan_06" //ur website to be displayed
+global.websitex1 = "linktr.ee/alan_06"
+global.botscript = '-' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Oscar Bot" //ur sticker watermark author
-global.wm = "Jarot ofc" //ur watermark
+global.author = "Alan" //ur sticker watermark author
+global.wm = "Alan" //ur watermark
 
 // Other
 global.sessionName = 'Session'
@@ -61,10 +61,10 @@ global.limitawal = {
     premium: "Infinity",
     free: 25
 }
-global.thum = fs.readFileSync("./Media/theme/jarot.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./Media/theme/jarot.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./Media/theme/jarot.jpg") //ur error pic
-global.thumb = fs.readFileSync("./Media/theme/jarot.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./Media/theme/alan.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./Media/theme/alan.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./Media/theme/alan.jpg") //ur error pic
+global.thumb = fs.readFileSync("./Media/theme/alan.jpg") //ur thumb pic
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
